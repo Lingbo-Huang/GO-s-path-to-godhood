@@ -35,7 +35,7 @@ func main() {
 	p.Add(line, points1)
 
 	// 保存图像到文件
-	if err := p.Save(4*vg.Inch, 4*vg.Inch, ".\\test\\test3\\sin_function.png"); err != nil {
+	if err := p.Save(4*vg.Inch, 4*vg.Inch, ".\\toys\\test3\\sin_function.png"); err != nil {
 		fmt.Println(err)
 		return
 	}

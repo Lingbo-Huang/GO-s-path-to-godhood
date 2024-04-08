@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// 读取文本文件
-	file, err := os.Open("./test/test5/example.txt")
+	file, err := os.Open("./toys/test5/example.txt")
 	if err != nil {
 		fmt.Println("Error opening file:", err)
 		return

@@ -26,7 +26,7 @@ func main() {
 	addFrame(&anim, palette, 1)
 
 	// 保存 GIF 文件
-	file, err := os.Create("./test/test24/animation.gif")
+	file, err := os.Create("./toys/test24/animation.gif")
 	if err != nil {
 		panic(err)
 	}

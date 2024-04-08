@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	file, err := os.Create("./test/test17/app.log")
+	file, err := os.Create("./toys/test17/app.log")
 	if err != nil {
 		log.Fatal("Error creating log file:", err)
 	}
