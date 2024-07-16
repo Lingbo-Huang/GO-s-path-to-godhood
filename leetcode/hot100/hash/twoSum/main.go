@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learngo/leetcode/twoSum/twoSum"
+	"learngo/leetcode/hot100/hash/twoSum/twoSum"
 )
 
 func main() {

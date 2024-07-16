@@ -1,0 +1,77 @@
+{
+  "id": "root",
+  "children": [
+    {
+      "id": "node_1",
+      "children": [
+        {
+          "id": "node_1_1",
+          "children": [
+            {
+              "id": "node_1_1_1",
+              "children": []
+            },
+            {
+              "id": "node_1_1_2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "node_1_2",
+          "children": [
+            {
+              "id": "node_1_2_1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node_2",
+      "children": [
+        {
+          "id": "node_2_1",
+          "children": [
+            {
+              "id": "node_2_1_1",
+              "children": []
+            },
+            {
+              "id": "node_2_1_2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "node_3",
+      "children": [
+        {
+          "id": "node_3_1",
+          "children": [
+            {
+              "id": "node_3_1_1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "node_3_2",
+          "children": [
+            {
+              "id": "node_3_2_1",
+              "children": []
+            },
+            {
+              "id": "node_3_2_2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

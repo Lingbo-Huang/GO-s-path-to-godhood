@@ -10,7 +10,7 @@ import (
 
 func main() {
 	sc := bufio.NewScanner(os.Stdin)
-	sc.Scan()
+	//sc.Scan()
 	for sc.Scan() {
 		strs := strings.Split(sc.Text(), " ")
 		sort.Strings(strs)
